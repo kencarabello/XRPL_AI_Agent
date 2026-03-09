@@ -1,6 +1,6 @@
 # XRPL AI Agent
 
-This is a Demo Video the shows an Autonomous XRPL AI Agent make a cross-chain micropayment 
+This is a Demo Video that shows an Autonomous XRPL AI Agent make a cross-chain micropayment 
 
 from XRPL $RLUSD to Base $USDC. And then the content behind the x402 paywall is delivered.
 
